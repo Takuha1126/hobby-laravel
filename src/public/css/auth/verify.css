@@ -1,0 +1,27 @@
+.header {
+    max-width: 1500px;
+    background-color: #000080;
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.header__ttl {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.header__title {
+    color: #fff;
+    font-size: 30px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.card {
+    font-size: 20px;
+}

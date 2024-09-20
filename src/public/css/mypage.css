@@ -1,0 +1,60 @@
+.main {
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.main__ttl {
+    max-width: 450px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main__title {
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+}
+
+.main__ttl-item {
+    font-size: 18px;
+}
+
+.main__group {
+    max-width: 700px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main__about {
+    width: 100%;
+}
+
+.main__about-ttl {
+    border: 1px solid #aaaaaa;
+    background-color: #000080;
+}
+
+.main__about-title {
+    padding: 20px;
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+    font-size: 30px;
+    margin: 0;
+    color: #ffffff;
+}
+
+.main__about-ol {
+    border: 1px solid #aaaaaa;
+    margin: 0;
+    padding-bottom: 30px;
+}
+
+.main__about-li {
+    border-bottom: 1px solid #aaaaaa;
+    width: 80%;
+    padding: 20px;
+}

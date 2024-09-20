@@ -1,0 +1,101 @@
+.header {
+    max-width: 1500px;
+    background-color: #000080;
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.header__ttl {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__title {
+    color: #fff;
+    font-size: 30px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav__link {
+    background-color: #000080;
+    color: #fff;
+    margin-left: 30px;
+    font-size: 25px;
+    border: none;
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.main {
+    max-width: 600px;
+    margin: 150px auto;
+}
+
+.main__ttl {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid #aaaaaa;
+    border-radius: 5px;
+}
+
+.main__group {
+    background-color: #000080;
+    border: 1px solid #000080;
+}
+
+.main__title {
+    color: #fff;
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 10px 0 10px 20px;
+}
+
+.main__about {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+.main__item {
+    margin: 20px 0;
+}
+
+.label {
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.main__item input {
+    width: 100%;
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.button {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.button__ttl {
+    padding: 5px 30px;
+    background-color: #000080;
+    border-radius: 5px;
+    color: #fff;
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+    font-style: normal;
+}

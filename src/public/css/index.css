@@ -1,0 +1,66 @@
+.main {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.main__ttl{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.main__ttl i {
+    color: #000080;
+}
+
+.main__title {
+    font-size: 20px;
+    padding: 0 5px;
+}
+
+.main__about {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.options {
+    max-width: 700px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.options label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.options input {
+    margin-right: 10px;
+}
+
+.options i {
+    font-size: 1.5rem;
+    margin-right: 10px;
+    color: #007BFF;
+}
+
+.button {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.submit__button {
+    padding: 15px 50px;
+    background-color: #000080;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+}
+
