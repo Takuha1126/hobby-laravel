@@ -38,7 +38,7 @@
 
 .main {
     max-width: 600px;
-    margin: 150px auto;
+    margin: 100px auto;
 }
 
 .main__ttl {
@@ -68,7 +68,7 @@
 }
 
 .main__item {
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 .label {
@@ -87,7 +87,7 @@
 
 .button {
     text-align: center;
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 .button__ttl {
@@ -98,4 +98,10 @@
     font-family: "Caveat", cursive;
     font-weight: 400;
     font-style: normal;
+    border: none;
+}
+
+.text-danger {
+    color: #ff0000;
+    font-size: 15px;
 }

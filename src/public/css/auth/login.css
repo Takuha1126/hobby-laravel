@@ -98,4 +98,10 @@
     font-family: "Caveat", cursive;
     font-weight: 400;
     font-style: normal;
+    border: none;
+}
+
+.text-danger {
+    color: #ff0000;
+    font-size: 15px;
 }

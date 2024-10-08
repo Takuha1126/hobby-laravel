@@ -9,7 +9,7 @@
     <div class="main">
         <div class="main__ttl">
             <p class="main__title">Name</p>
-            <p class="main__ttl-item">サンプルテキスト</p>
+            <p class="main__ttl-item">{{$user->name}}</p>
         </div>
         <div class="main__ttl">
             <p class="main__title">MostHobby</p>
